@@ -327,14 +327,29 @@ Each downstream module attaches to the U-Trans latent or decoder representation.
 
 If you use this repository, please cite:
 
-**U-Trans: a foundation model for seismic waveform representation and enhanced downstream earthquake tasks**  
-DOI: 10.1038/s41598-026-41454-x
+```markdown
+
+Saad, O. M., Chen, Y., & Alkhalifah, T. (2026).  
+**U-Trans: a foundation model for seismic waveform representation and enhanced downstream earthquake tasks.**  
+*Scientific Reports*.  
+https://doi.org/10.1038/s41598-026-41454-x
+
+```bibtex
+@article{saad2026u,
+  title={U-Trans: a foundation model for seismic waveform representation and enhanced downstream earthquake tasks},
+  author={Saad, Omar M and Chen, Yangkang and Alkhalifah, Tariq},
+  journal={Scientific Reports},
+  year={2026},
+  publisher={Nature Publishing Group UK London},
+  doi={10.1038/s41598-026-41454-x}
+}
 
 ---
 
 # 📧 Contact
 
 For questions or collaboration, please open an issue in this repository.
+
 
 
 
